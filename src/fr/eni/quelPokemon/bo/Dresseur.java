@@ -42,4 +42,5 @@ public class Dresseur {
 
     public void capture(Pokemon pikachu){
     }
+
 }
