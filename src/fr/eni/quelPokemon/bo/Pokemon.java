@@ -19,6 +19,9 @@ public class Pokemon {
         this.attaque02 = attaque02;
     }
 
+    public Pokemon(String pikachu, int taille, int poids, int pv) {
+    }
+
     public String getNom() {
         return nom;
     }

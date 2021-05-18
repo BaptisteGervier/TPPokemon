@@ -13,6 +13,10 @@ public class Dresseur {
         this.prenom = prenom;
         this.collecPokemons = pokemons;
     }
+
+    public Dresseur(String sasha) {
+    }
+
     /**
      * Getter et setter de l'attribut prenom
      * */
